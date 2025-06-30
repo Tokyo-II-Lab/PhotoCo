@@ -47,9 +47,9 @@ AI, カメラ, 撮影, アドバイス, コーチ, 構図, スマホ, 上達, �
 
 ## サポート・問い合わせ
 
-- サポートメールアドレス: support@tokyo-ii-lab.com
-- プライバシーポリシー: https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html
-- サポートURL: mailto:support@tokyo-ii-lab.com
+- サポートメールアドレス: [support@tokyo-ii-lab.com](mailto:support@tokyo-ii-lab.com)
+- プライバシーポリシー: [https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html](https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html)
+- サポートURL: [support@tokyo-ii-lab.com](mailto:support@tokyo-ii-lab.com)
 
 ---
 
