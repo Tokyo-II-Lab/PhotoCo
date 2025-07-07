@@ -1,6 +1,6 @@
 # PhotoCo（ホトコ）- AIカメラコーチアプリ
 
-[App Storeでダウンロード](https://apps.apple.com/jp/app/your-app-id) <!-- リリース後に実URLを記載 -->
+[App Storeでダウンロード](https://apps.apple.com/us/app/photoco/id6747964388)<!-- リリース後に実URLを記載 -->
 
 ---
 
