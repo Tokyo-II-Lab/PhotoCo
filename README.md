@@ -67,4 +67,4 @@ AI, カメラ, 撮影, アドバイス, コーチ, 構図, スマホ, 上達, �
 
 ---
 
-© 2025 Tokyo II Lab
+© 2025 Takuya Hanashi
