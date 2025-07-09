@@ -1,6 +1,77 @@
+# PhotoCo - AI Camera Coach App
+
+[Download on the App Store](https://apps.apple.com/us/app/photoco/id6747964388) <!-- Update with actual URL after release -->
+
+#### 【App Features】
+
+- __AI provides real-time shooting advice__
+  - AI automatically analyzes composition, brightness, and focus during shooting and displays optimal advice on the spot
+  - Supports that "one more step" to improve quality
+
+- __Camera coach for beginners to advanced users__
+  - Advice tailored to the user's level, from photography basics to advanced techniques
+  - No complicated settings or technical terms needed, intuitive operation for everyone
+
+- __Simple and clear UI__
+  - Carefully selected essential features for confusion-free use
+  - Clean screen to focus on shooting
+
+- __Automatic image saving & privacy considerations__
+  - Photos taken are automatically saved to your device
+  - Access to camera and photo library requires explicit user permission
+  - Image data for AI advice is promptly discarded after advice generation, no personal information is collected
+
+- __Contains ads・All features free__
+  - Displays Google AdMob ads
+  - All features available for free
+
+---
+
+#### 【Recommended For】
+
+- Those who struggle with cameras but want to take presentable photos
+- Those who want to take better photos with their smartphone
+- Those who want to improve the quality of photos for SNS and blogs
+- Those who want to casually receive professional advice
+- Those who prefer simple camera apps over complicated ones
+
+---
+
+#### 【Keywords】
+
+AI, camera, photography, advice, coach, composition, smartphone, improvement, automatic analysis, beginner
+
+---
+
+## Support & Inquiries
+
+- Support Email: support@tokyo-ii-lab.com
+- Privacy Policy: https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html
+- Support URL: mailto:support@tokyo-ii-lab.com
+
+---
+
+## OSS License Notices
+
+This app and its accompanying server use the following OSS libraries (commercial use/redistribution permitted/refer to official license text for details).
+
+- Flask (BSD-3-Clause): https://palletsprojects.com/p/flask/
+- python-dotenv (BSD-3-Clause): https://github.com/theskumar/python-dotenv
+- requests (Apache-2.0): https://docs.python-requests.org/
+- pytest (MIT): https://docs.pytest.org/
+- pytest-mock (MIT): https://github.com/pytest-dev/pytest-mock
+- pydantic (MIT): https://docs.pydantic.dev/
+- openai (MIT): https://github.com/openai/openai-python
+
+---
+
+© 2025 Takuya Hanashi
+
+---
+
 # PhotoCo（ホトコ）- AIカメラコーチアプリ
 
-[App Storeでダウンロード](https://apps.apple.com/us/app/photoco/id6747964388)<!-- リリース後に実URLを記載 -->
+[App Storeでダウンロード](https://apps.apple.com/jp/app/photoco/id6747964388) <!-- リリース後に実URLを記載 -->
 
 ---
 
@@ -47,9 +118,9 @@ AI, カメラ, 撮影, アドバイス, コーチ, 構図, スマホ, 上達, �
 
 ## サポート・問い合わせ
 
-- サポートメールアドレス: [support@tokyo-ii-lab.com](mailto:support@tokyo-ii-lab.com)
-- プライバシーポリシー: [https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html](https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html)
-- サポートURL: [support@tokyo-ii-lab.com](mailto:support@tokyo-ii-lab.com)
+- サポートメールアドレス: support@tokyo-ii-lab.com
+- プライバシーポリシー: https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html
+- サポートURL: mailto:support@tokyo-ii-lab.com
 
 ---
 
