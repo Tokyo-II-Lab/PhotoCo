@@ -46,8 +46,8 @@ AI, camera, photography, advice, coach, composition, smartphone, improvement, au
 ## Support & Inquiries
 
 - Support Email: support@tokyo-ii-lab.com
-- Privacy Policy: https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html
-- Support URL: mailto:support@tokyo-ii-lab.com
+- Privacy Policy: [https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html](https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html)
+- Support URL: [support@tokyo-ii-lab.com](mailto:support@tokyo-ii-lab.com)
 
 ---
 
@@ -55,13 +55,13 @@ AI, camera, photography, advice, coach, composition, smartphone, improvement, au
 
 This app and its accompanying server use the following OSS libraries (commercial use/redistribution permitted/refer to official license text for details).
 
-- Flask (BSD-3-Clause): https://palletsprojects.com/p/flask/
-- python-dotenv (BSD-3-Clause): https://github.com/theskumar/python-dotenv
-- requests (Apache-2.0): https://docs.python-requests.org/
-- pytest (MIT): https://docs.pytest.org/
-- pytest-mock (MIT): https://github.com/pytest-dev/pytest-mock
-- pydantic (MIT): https://docs.pydantic.dev/
-- openai (MIT): https://github.com/openai/openai-python
+- Flask (BSD-3-Clause): [https://palletsprojects.com/p/flask/](https://palletsprojects.com/p/flask/)
+- python-dotenv (BSD-3-Clause): [https://github.com/theskumar/python-dotenv](https://github.com/theskumar/python-dotenv)
+- requests (Apache-2.0): [https://docs.python-requests.org/](https://docs.python-requests.org/)
+- pytest (MIT): [https://docs.pytest.org/](https://docs.pytest.org/)
+- pytest-mock (MIT): [https://github.com/pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock)
+- pydantic (MIT): [https://docs.pydantic.dev/](https://docs.pydantic.dev/)
+- openai (MIT): [https://github.com/openai/openai-python](https://github.com/openai/openai-python)
 
 ---
 
@@ -119,8 +119,8 @@ AI, カメラ, 撮影, アドバイス, コーチ, 構図, スマホ, 上達, �
 ## サポート・問い合わせ
 
 - サポートメールアドレス: support@tokyo-ii-lab.com
-- プライバシーポリシー: https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html
-- サポートURL: mailto:support@tokyo-ii-lab.com
+- プライバシーポリシー: [https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html](https://tokyo-ii-lab.github.io/PhotoCo/terms-privacy.html)
+- サポートURL: [support@tokyo-ii-lab.com](mailto:support@tokyo-ii-lab.com)
 
 ---
 
@@ -128,13 +128,13 @@ AI, カメラ, 撮影, アドバイス, コーチ, 構図, スマホ, 上達, �
 
 本アプリおよび付属サーバーは以下のOSSライブラリを利用しています（商用利用・再配布可／ライセンス条文は各公式参照）。
 
-- Flask（BSD-3-Clause）: https://palletsprojects.com/p/flask/
-- python-dotenv（BSD-3-Clause）: https://github.com/theskumar/python-dotenv
-- requests（Apache-2.0）: https://docs.python-requests.org/
-- pytest（MIT）: https://docs.pytest.org/
-- pytest-mock（MIT）: https://github.com/pytest-dev/pytest-mock
-- pydantic（MIT）: https://docs.pydantic.dev/
-- openai（MIT）: https://github.com/openai/openai-python
+- Flask（BSD-3-Clause）: [https://palletsprojects.com/p/flask/](https://palletsprojects.com/p/flask/)
+- python-dotenv（BSD-3-Clause）: [https://github.com/theskumar/python-dotenv](https://github.com/theskumar/python-dotenv)
+- requests（Apache-2.0）: [https://docs.python-requests.org/](https://docs.python-requests.org/)
+- pytest（MIT）: [https://docs.pytest.org/](https://docs.pytest.org/)
+- pytest-mock（MIT）: [https://github.com/pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock)
+- pydantic（MIT）: [https://docs.pydantic.dev/](https://docs.pydantic.dev/)
+- openai（MIT）: [https://github.com/openai/openai-python](https://github.com/openai/openai-python)
 
 ---
 
