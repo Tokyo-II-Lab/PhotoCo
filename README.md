@@ -62,6 +62,7 @@ This app and its accompanying server use the following OSS libraries (commercial
 - pytest-mock (MIT): [https://github.com/pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock)
 - pydantic (MIT): [https://docs.pydantic.dev/](https://docs.pydantic.dev/)
 - openai (MIT): [https://github.com/openai/openai-python](https://github.com/openai/openai-python)
+- google-genai (Apache-2.0): [https://github.com/googleapis/python-genai](https://github.com/googleapis/python-genai)
 
 ---
 
@@ -135,6 +136,7 @@ AI, カメラ, 撮影, アドバイス, コーチ, 構図, スマホ, 上達, �
 - pytest-mock（MIT）: [https://github.com/pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock)
 - pydantic（MIT）: [https://docs.pydantic.dev/](https://docs.pydantic.dev/)
 - openai（MIT）: [https://github.com/openai/openai-python](https://github.com/openai/openai-python)
+- google-genai（Apache-2.0）: [https://github.com/googleapis/python-genai](https://github.com/googleapis/python-genai)
 
 ---
 
